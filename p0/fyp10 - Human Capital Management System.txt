@@ -1,0 +1,31 @@
+Cloud based Modern Human Capital Management System
+
+Project Synopsis
+--------------------
+
+Every modern organization requires an application to manage its workforce or Human Capital. From employee recruitment and onboarding to employee retirement, a modern human capital management system captures the entire employee lifecycle and the related processes. Such applications take a modular approach and usually cover the following business areas:
+
+•	Core HR Module
+•	Payroll
+•	Recruitment and Onboarding
+•	Goals, Performance, and Appraisal Management
+•	Learning Management
+•	Succession Management
+•	Benefits Management
+•	Time tracking 
+•	Business Intelligence and Reporting
+
+A modern HCM solution is a complex application that is built upon modern web technologies and should incorporate latest UI features, responsiveness, and mobility. As compared to other enterprise applications where a limited number of employees are users of the application, an HCM application is usually used by the entire workforce for self-service features. Therefore, a special emphasis on user experience is a must. 
+
+A complete web technology stack like MEAN can be used to deliver this project. Given the time and scope limitations of an FYP, a subset of the features/modules listed above can be implemented. As any modern application, this project will be conceived with a cloud-first approach and the application will be developed on Software as a Service model with Docker/Kubernetes to be used for containerization. 
+
+Possible Add-ons:
+---------------------
+
+•	The business intelligence and reporting can be further augmented by incorporating an NLP based prompt
+•	Machine learning can be embedded to automate frequently performed tasks or to provide auto-recommendations 
+
+Commercial Viability
+-------------------------
+
+This project can evolve into an off-the-shelf HCM SaaS product which can be monetized and sold to organization. Within Pakistan, the there is a gap in the market when it comes to local HR solutions as the ones with major market share lack in features and user experience. Over time, this project can mature into a complete commercial offering covering all modules required in a Human Capital Management solution.

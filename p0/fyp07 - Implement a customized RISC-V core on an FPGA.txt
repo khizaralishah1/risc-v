@@ -1,0 +1,32 @@
+Title: Implement a customized RISC-V core on an FPGA.
+
+Outcomes:
+- Good understanding of Computer Architecture in general and RISC-V in particular
+- Implementation skills using Verilog
+- Using FPGAs to design and test digital logic
+- Readiness for the embedded systems job market.
+
+Background:
+RISC-V is a relatively new processor ISA gaining huge popularity. Due to the proprietary
+nature of the dominant ISAs, more and more companies are turning to the free and open
+source RISC-V ISA to make their own cores. This has recently created a huge demand for
+RISC-V design and validation engineers in the market.
+
+Description:
+This includes implement a 5-stage RISC-V pipelined processor and burn that design on an
+FPGA. A couple of custom instructions can be added to explore ISA modifications.
+
+Methodology:
+One possible approach to implementing the project can be the following roadmap:
+- Revision/Introduction to Verilog HDL
+- Learn RISC-V assembly language
+- Design and test a single-cycle RISC-V core in simulator
+- Design and test a single-cycle RISC-V core on FPGA
+- Design and test a pipelined RISC-V core in simulator
+- Design and test a pipelined RISC-V core on FPGA
+- Add custom instructions to the implemented RISC-V core.
+
+Will be helpful if you have:
+Courses like Fundamentals of Logic Design, Computer Organization and Assembly Language, etc.
+Some familiarity with Verilog HDL
+Interest in low-level hardware design.

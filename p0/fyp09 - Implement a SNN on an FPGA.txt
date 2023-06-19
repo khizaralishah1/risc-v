@@ -1,0 +1,41 @@
+Title: Implement a Spiking Neural Network (SNN) on an FPGA.
+
+Resources:
+- https://en.wikipedia.org/wiki/Neuromorphic_engineering
+- https://www.geeksforgeeks.org/neuromorphic-computing/
+- https://www.youtube.com/watch?v=PeW-TN3P1hk
+
+
+Outcomes:
+- Good understanding of CNNs and SNNs
+- Implementation skills using Verilog
+- Using FPGAs to design and test digital logic
+- Readiness for the embedded systems and AI job market.
+
+Background:
+Artificial Intelligence and Machine Learning are being used in more and 
+more applications in the world of today. 
+
+Spiking Neural Networks (SNNs) mimick the behaviour of human brain more
+closely than the conventional neural networks. They are orders of magnitude
+more effecient in compuation/watts metrics and thus are the foundation of the
+domain of Neuromorphic Computing.
+
+Description:
+This includes implementing a traditional spiking neural network on an FPGA
+using the Verilog HDL.
+
+Methodology:
+One possible approach to implementing the project can be the following roadmap:
+- Learn convolutional neural network basiscs
+- Implement CNN from scratch in high-level language (C, Python)
+- Implement SNN from scratch in high-level language (C, Python)
+- Revision/Introduction to Verilog HDL
+- Build simple designs in Verilog and burn and test them on FPGA
+- Build matrix multiplication in Verilog and burn and test them on FPGA
+- Build a SNN in Verilog and burn and test it on FPGA
+
+Will be helpful if you have:
+- Courses like Fundamentals of Logic Design, Computer Organization and Assembly Language, Intro to AI, etc.
+- Some familiarity with Verilog HDL
+- Interest in machine learning and low-level hardware design.

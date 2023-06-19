@@ -1,0 +1,11 @@
+Title:
+
+Satellite images analysis for disaster analysis / crops analysis (in collaboration with a local company)
+
+Background:
+
+Satellite imagery is commonly used by many advanced countries for different applications, such as, land mapping, water monitoring, surveillance, agriculture health monitoring, etc. Satellite images are generally an enhanced version of the everyday digital images that we use in the sense that they have more number of spectral bands in them, and hence are known as ‘Multispectral’ images.
+
+Description:
+
+This project will be done in collaboration will a local Islamabad based company ( Sybrid Pvt. Ltd. ) which is seeking to extract meaning information from the satellite multispectral images using Artificial Intelligence. The datasets for some of the popular satellite programs, such as Landsat in US or Sentinel in EU, are publicly available on their website. The main objective of this project would be to use those images for an application of interest for the country, such as flood analysis or crop health monitoring. The project will involve the use of AI/deep learning techniques to be implemented on these images to extract the useful information. Possible outcomes of the project could be creation of a software module which would provide useful information related to crops/floods to the client in a user-friendly manner. 
